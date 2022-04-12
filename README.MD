@@ -1,6 +1,6 @@
 # Linux commands for fresh installed distros
 
-## How to fix Resolution issue on POP OS/UBUNTU 20 and fixes shutdown issue
+## How to fix Resolution and Shutdown freezes issue on POP OS/UBUNTU 20
 
 1. Type the following command: 
 
